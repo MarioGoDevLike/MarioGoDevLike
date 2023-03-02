@@ -12,6 +12,6 @@ Self taught web developer with a strong background in front-end and back-end dev
 
 ## 🌱 I’m currently learning
 - [ ] React.js
+- [ ] Google Firebase
 - [ ] Wordpress
-- [ ] Android Studio
 - [ ] Git
