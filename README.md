@@ -10,7 +10,7 @@ Self taught web developer with a strong background in front-end and back-end dev
 ## 💻 While you're here don't forget to check out my repos!
 - [TravelMate Website](https://github.com/MarioGoDevLike/TravelMate/tree/main/travelmate)
 - [Portfolio Website](https://github.com/MarioGoDevLike/portfolio)
-- 
+
 ## 🌱 I’m currently learning
 - [ ] React.js
 - [ ] Sass
