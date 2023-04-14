@@ -8,11 +8,13 @@ Self taught web developer with a strong background in front-end and back-end dev
 - [LinkedIn](https://www.linkedin.com/in/mario-nassar-b0065a20b/)
 
 ## 💻 While you're here don't forget to check out my repos!
-- [TravelMate Website](https://github.com/MarioGoDevLike/TravelMate/tree/main/travelmate)
+- [TravelMate Website](https://github.com/MarioGoDevLike/TravelMate)
 - [Portfolio Website](https://github.com/MarioGoDevLike/portfolio)
+- [Weather Website](https://github.com/MarioGoDevLike/ReactWeatherApp)
 
 ## 🌱 I’m currently learning
 - [ ] React.js
+- [ ] Next.js
 - [ ] Sass
 - [ ] Google Firebase
 - [ ] Wordpress
