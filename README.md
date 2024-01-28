@@ -14,8 +14,8 @@ Self taught web developer with a strong background in front-end and back-end dev
 
 ## 🌱 I’m currently learning
 - [ ] React.js
-- [ ] Next.js
-- [ ] Sass
+- [ ] ReactNative
+- [ ] Saas
 - [ ] Google Firebase
 - [ ] Wordpress
 - [ ] Git
